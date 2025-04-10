@@ -1,8 +1,11 @@
-The project is about the cricket score prediction based on live commentary
-It can get audio as an input throung file upload or Live recording and covert it into the text using whisper AI 
-Then NLP is used to extract ball by ball data from text file it can serve as an input for prediction of score
-The admin can give Teams, location and audio file to system and can generate a Scorecard from that also predict score 
-Users can login and see scorecard and predicted score
+The project focuses on cricket score prediction based on live commentary.
+It accepts audio input either through file upload or live recording, and uses Whisper AI to convert the audio into text.
+
+Next, NLP techniques are applied to extract ball-by-ball data from the text, which serves as the input for predicting the score.
+
+An admin can provide the teams, location, and audio file to the system to generate a scorecard and predict the final score.
+
+Users can log in to view the scorecard and the predicted score.
 
 For runnig project
 Go to backend 
