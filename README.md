@@ -25,34 +25,65 @@ To start a project
 
 
 **Home Pgae**
+
  ![alt text](Images/Home1.png)
  ![alt text](Images/Home2.png)
 
 
 
 
-News Page
+
+
+
+
+
+**News Page**
+
  ![alt text](Images/News.png)
 
 
 
 
-About Page
+
+
+
+
+
+**About Page**
+
  ![alt text](Images/About.png)
 
 
 
-Login Page
+
+
+
+
+
+**Login Page**
+
  ![alt text](Images/Login.png)
 
 
 
-Login as Admin
+
+
+
+
+
+
+**Login as Admin**
+
  ![alt text](Images/Admin1.png)
  ![alt text](Images/Admin2.png)
 
 
 
-Login as User
+
+
+
+
+**Login as User**
+
  ![alt text](Images/User1.png)
  ![alt text](Images/User2.png)
