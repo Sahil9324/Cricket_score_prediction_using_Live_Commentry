@@ -23,22 +23,35 @@ To start a project
  Path to react-fastapi-transcription  npm run dev    
 
 
-Home Pgae
+
+**Home Pgae**
  ![alt text](Images/Home1.png)
  ![alt text](Images/Home2.png)
+
+
+
 
 News Page
  ![alt text](Images/News.png)
 
+
+
+
 About Page
  ![alt text](Images/About.png)
+
+
 
 Login Page
  ![alt text](Images/Login.png)
 
+
+
 Login as Admin
  ![alt text](Images/Admin1.png)
  ![alt text](Images/Admin2.png)
+
+
 
 Login as User
  ![alt text](Images/User1.png)
