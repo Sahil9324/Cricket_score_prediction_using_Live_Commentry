@@ -24,8 +24,8 @@ To start a project
 
 
 Home Pgae
- ![alt text](Images\Home1.png)
- ![alt text](Images\Home2.png)
+ ![alt text](Images/Home1.png)
+ ![alt text](Images/Home2.png)
 
 News Page
  ![alt text](Images\News.png)
