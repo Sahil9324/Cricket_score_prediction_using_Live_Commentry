@@ -28,18 +28,18 @@ Home Pgae
  ![alt text](Images/Home2.png)
 
 News Page
- ![alt text](Images\News.png)
+ ![alt text](Images/News.png)
 
 About Page
- ![alt text](Images\About.png)
+ ![alt text](Images/About.png)
 
 Login Page
- ![alt text](Images\Login.png)
+ ![alt text](Images/Login.png)
 
 Login as Admin
- ![alt text](Images\Admin1.png)
- ![alt text](Images\Admin2.png)
+ ![alt text](Images/Admin1.png)
+ ![alt text](Images/Admin2.png)
 
 Login as User
- ![alt text](Images\User1.png)
- ![alt text](Images\User2.png)
+ ![alt text](Images/User1.png)
+ ![alt text](Images/User2.png)
